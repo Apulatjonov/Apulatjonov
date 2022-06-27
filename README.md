@@ -1,4 +1,6 @@
+<a href="https://www.marvel.com/404">
 <img src="https://i.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.webp" width="400px"/>
+  </a>
 <h1>Hello there!</h1>
 
 I am Abdulaziz Pulatjonov (Apulatjonov), a Backend Developer (specializing in Java) and an Android Developer in Kotlin programming language.
@@ -11,6 +13,7 @@ Apart from <bold>Java</bold> family I am familiar with:
 - :atom: Data Science
 - 🤖 AI
 - 👨‍💻 Blockchain
+- 📘 SQL(PostgreSQL/MySQL) / NoSQL(MongoDB)
 
 👨‍🎓 Currently I am Pursuing my Bachelor in Business Information Systems at Westminster International University in Tashkent.
 
@@ -20,6 +23,9 @@ Apart from <bold>Java</bold> family I am familiar with:
 
 📰 Time to time, I like to write articles on different topics including programming on different platforms like medium and so on.
 
+
+
+</br>
 <h1>🏅 Achievements</h1>
 ◽ 🟢 Awarded with <bold>"Unicorn Scholarship"</bold> in PDP Academy (September 2021)</br>
 ◽ 🔴 TEDxWIUT License holder</br>
@@ -27,6 +33,8 @@ Apart from <bold>Java</bold> family I am familiar with:
 ◽ ⚪ Third place in the 4<sup>th</sup> Programming, Maths & Logic Hackathon 2021 in the University of Westminster and School of Computer Science & Engineering</br>
 
 
+
+</br>
 <h3>Contacts:</h3>
 <a href="https://t.me/apulatjonov" target="_blank">
 <img src="https://www.hostgnome.com/wp-content/uploads/2021/09/Telegram-logo.png" width="50" alt="Telegram: "/>
