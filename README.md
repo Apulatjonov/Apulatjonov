@@ -10,6 +10,7 @@ Apart from <bold>Java</bold> family I am familiar with:
 - 💻 C#/C++
 - :atom: Data Science in Python Anaconda Environment
 - 🤖 AI
+- 👨‍💻 Blockchain
 
 👨‍🎓 Currently I am Pursuing my Bachelor in Business Information Systems at Westminster International University in Tashkent.
 
