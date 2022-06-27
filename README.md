@@ -1,7 +1,7 @@
 <img src="https://i.giphy.com/media/iigp4VDyf5dCLRlGkm/giphy.webp" width="400px"/>
 <h1>Hello there!</h1>
 
-I am Abdulaziz Pulatjonov, a Backend Developer (specializing in Java) and an Android Developer in Kotlin programming language.
+I am Abdulaziz Pulatjonov (Apulatjonov), a Backend Developer (specializing in Java) and an Android Developer in Kotlin programming language.
 
 I am interested in building web applications, mostly, working with apis, creating ai bots and android applications.
 
@@ -33,6 +33,11 @@ Apart from <bold>Java</bold> family I am familiar with:
 <a href="https://www.instagram.com/apulatjonov">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="30" alt="Instagram: "/>
   </a>
+ <a href="https://wa.me/998998887343">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" width="30" alt="Instagram: "/>
+  </a>
+  
+  
   
   
 <!---
