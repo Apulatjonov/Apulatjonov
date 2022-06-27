@@ -5,15 +5,17 @@
 
 I am Abdulaziz Pulatjonov (Apulatjonov), a Backend Developer (specializing in Java) and an Android Developer in Kotlin programming language.
 
-I am interested in building web applications, mostly, working with apis, creating ai bots and android applications.
+I am interested in building web applications, mostly, working with apis, creating ai bots and android applications and solving problems in different platforms like Leetcode and HackerRank.
 
-Apart from <bold>Java</bold> family I am familiar with:
+Apart from <bold>Java (Spring Framework)</bold> family I am familiar with:
+- 👽 Android
 - 🐍 Python
 - 💻 C#/C++
 - :atom: Data Science
 - 🤖 AI
 - 👨‍💻 Blockchain
 - 📘 SQL(PostgreSQL/MySQL) / NoSQL(MongoDB)
+</br>
 
 👨‍🎓 Currently I am Pursuing my Bachelor in Business Information Systems at Westminster International University in Tashkent.
 
