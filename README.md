@@ -7,6 +7,10 @@ I am Abdulaziz Pulatjonov (Apulatjonov), a Backend Developer (specializing in Ja
 
 I am interested in building web applications, mostly, working with apis, creating ai bots and android applications and solving problems in different platforms like Leetcode and HackerRank.
 
+<a href="https://leetcode.com/apulatjonov/">
+<img src="https://user-images.githubusercontent.com/61693422/175862861-45c02719-3d91-4fca-b889-09fc7456d4c9.png" width="300px"/>
+  </a>
+
 Apart from <bold>Java (Spring Framework)</bold> family I am familiar with:
 - 👽 Android
 - 🐍 Python
@@ -16,6 +20,7 @@ Apart from <bold>Java (Spring Framework)</bold> family I am familiar with:
 - 👨‍💻 Blockchain
 - 📘 SQL(PostgreSQL/MySQL) / NoSQL(MongoDB)
 </br>
+
 
 👨‍🎓 Currently I am Pursuing my Bachelor in Business Information Systems at Westminster International University in Tashkent.
 
