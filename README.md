@@ -8,7 +8,7 @@ I am interested in building web applications, mostly, working with apis, creatin
 Apart from <bold>Java</bold> family I am familiar with:
 - 🐍 Python
 - 💻 C#/C++
-- :atom: Data Science in Python Anaconda Environment
+- :atom: Data Science
 - 🤖 AI
 - 👨‍💻 Blockchain
 
