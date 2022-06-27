@@ -28,20 +28,13 @@ Apart from <bold>Java</bold> family I am familiar with:
 
 
 <h3>Contacts:</h3>
-<a href="https://t.me/apulatjonov">
+<a href="https://t.me/apulatjonov" target="_blank">
 <img src="https://www.hostgnome.com/wp-content/uploads/2021/09/Telegram-logo.png" width="50" alt="Telegram: "/>
 </a>
-<a href="https://www.instagram.com/apulatjonov">
+<a href="https://www.instagram.com/apulatjonov" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="30" alt="Instagram: "/>
   </a>
- <a href="https://wa.me/998998887343">
+ <a href="https://wa.me/998998887343" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" width="30" alt="Instagram: "/>
   </a>
   
-  
-  
-  
-<!---
-Apulatjonov/Apulatjonov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
