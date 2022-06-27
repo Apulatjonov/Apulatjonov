@@ -3,7 +3,7 @@
   </a>
 <h1>Hello there!</h1>
 
-I am Abdulaziz Pulatjonov (Apulatjonov), a Backend Developer (specializing in Java) and an Android Developer in Kotlin programming language.
+I am Abdulaziz Pulatjonov, a Backend Developer (specializing in Java) and an Android Developer in Kotlin programming language.
 
 I am interested in building web applications, mostly, working with apis, creating ai bots and android applications and solving problems in different platforms like Leetcode and HackerRank.
 
@@ -40,16 +40,4 @@ Apart from <bold>Java (Spring Framework)</bold> family I am familiar with:
 ◽ ⚪ Third place in the 4<sup>th</sup> Programming, Maths & Logic Hackathon 2021 in the University of Westminster and School of Computer Science & Engineering</br>
 
 
-
-</br>
-<h3>Contacts:</h3>
-<a href="https://t.me/apulatjonov" target="_blank">
-<img src="https://www.hostgnome.com/wp-content/uploads/2021/09/Telegram-logo.png" width="50" alt="Telegram: "/>
-</a>
-<a href="https://www.instagram.com/apulatjonov" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="30" alt="Instagram: "/>
-  </a>
- <a href="https://wa.me/998998887343" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/2048px-WhatsApp_logo-color-vertical.svg.png" width="30" alt="Instagram: "/>
-  </a>
-  
+<h4><bold>Powered by Apulatjonov</bold></h4>
