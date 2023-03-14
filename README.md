@@ -16,8 +16,7 @@ Apart from <bold>Java (Spring Framework)</bold> family I am familiar with:
 - 🐍 Python
 - 💻 C#/C++
 - :atom: Data Science
-- 🤖 AI
-- 👨‍💻 Blockchain
+- Javascript (ReactJS)
 - 📘 SQL(PostgreSQL/MySQL) / NoSQL(MongoDB)
 </br>
 
